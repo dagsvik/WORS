@@ -1,0 +1,22 @@
+# Jekyll default directories and files
+_site/               # The folder where the generated site is built (should not be committed)
+.sass-cache/         # SASS cache files
+.jekyll-cache/       # Jekyll cache files
+.jekyll-metadata     # Keeps track of what has been built
+
+# Bundle-related files
+Gemfile.lock         # Gemfile.lock stores exact versions of the gems used
+vendor/              # Used by Jekyll to install gems locally if you run `bundle install --path vendor/bundle`
+
+# Temporary files and folders
+*.swp                # Swap files from text editors like Vim
+*.swo                # Swap files from text editors like Vim
+.DS_Store            # macOS Finder metadata files
+Thumbs.db            # Windows thumbnail cache files
+
+# Logs and database files
+*.log                # Log files from local development
+*.sqlite3            # SQLite database files (if you use SQLite locally)
+/_site
+/_site
+_site/index.html
