@@ -1,6 +1,6 @@
 [
-    { "title": "Main Page", "img": "/WORS/assets/css/img/Combat.webp", "url": "/WORS/" },
     { "title": "Agility", "img": "/WORS/assets/css/img/Agility.webp", "url": "/WORS/pages/Agility" },
+    { "title": "Hunter", "img": "/WORS/assets/css/img/Hunter.webp", "url": "/WORS/pages/Hunter" },
     { "title": "Combat", "img": "/WORS/assets/css/img/Combat.webp", "url": "/WORS/pages/Combat" },
-    { "title": "Hunter", "img": "/WORS/assets/css/img/Hunter.webp", "url": "/WORS/pages/Hunter" }
+    { "title": "Main Page", "img": "/WORS/assets/css/img/Combat.webp", "url": "/WORS/" }
 ]
